@@ -37,12 +37,3 @@ To conduct this analysis, we will use the following tools and libraries:
 - **Pandas**: Pandas will be used for data manipulation and cleaning.
 
 - **Matplotlib and Seaborn**: These libraries will help us create various data visualizations.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the project repository to your local machine:
-
-   ```shell
-   git clone <repository_url>
