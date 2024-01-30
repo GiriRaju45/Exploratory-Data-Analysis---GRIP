@@ -1,12 +1,3 @@
-# Exploratory-Data-Analysis---GRIP
-
-### Introduction
-
-Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. It involves the initial investigation of data to discover patterns, spot anomalies, and gain insights that can guide further analysis. In this README file, we will walk you through the process of performing EDA on the Indian Premier League (IPL) dataset, a popular cricket tournament dataset, to understand its structure and extract valuable information.
-
-### Dataset Description
-
-The IPL dataset contains information about cricket matches played in the Indian Premier League from various seasons. The dataset typically includes details such as team names, player names, match outcomes, runs scored, wickets taken, and much more. It's essential to have a basic understanding of the dataset before diving into EDA.
 
 # Exploratory Data Analysis (EDA) on IPL Dataset
 
